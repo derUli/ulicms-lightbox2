@@ -1,0 +1,14 @@
+{
+	"id": "lightbox2",
+	"version": "2.10.0",
+	"description": "Lightbox is small javascript library used to overlay images on top of the current page. It's a snap to setup and works on all modern browsers.",
+	"categories": [
+		"lightbox",
+		"images",
+		"design"
+	],
+	"compatible_from": "2018.4",
+	"dependencies" : [
+		"lightbox2"
+	]
+}
